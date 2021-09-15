@@ -18,6 +18,10 @@ h1 {
     margin-bottom: 40px;
 }
 
+p {
+    margin-top: 40px;
+}
+
 .btn {
     padding: 5px 20px;
     font-size: 20px;
